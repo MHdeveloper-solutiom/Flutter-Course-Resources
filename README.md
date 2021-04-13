@@ -19,6 +19,7 @@
 
 * [Material Design](https://material.io/)
 * [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [Good Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
 * [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
 * [Material Design Colour System](https://material.io/design/color/the-color-system.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
